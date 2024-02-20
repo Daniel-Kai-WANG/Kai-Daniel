@@ -1,5 +1,5 @@
-### Hello, I'm Kai(Daniel)! 👋
-* 🎓 Soon-to-be IT graduate from the University of Queensland
+### Hello, I'm Daniel WANG! 👋
+* 🎓 I am a recent graduate in Information Technology from the University of Queensland.
 * 🔍 Currently seeking a junior front-end or full-stack developer full-time job and graduate program
 * 🔭 Skilled in JavaScript, Python, Java, and Object-Oriented Programming
 * 🌐 Web developer with a knack for creating dynamic applications using React
